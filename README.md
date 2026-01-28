@@ -1,1 +1,1 @@
-This is the repository for sorting algorithm tasks
+Completed project as part of the ALX Software Engineering program.
